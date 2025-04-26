@@ -6,3 +6,5 @@ A user-friendly desktop application for downloading YouTube videos using the pow
 ![image](./static/img/Screenshot%202025-04-26%20232911.png)
 
 
+## 📜 License
+This project is licensed under the MIT License. Copyright (c) 2025 Mohamed Yahia.
